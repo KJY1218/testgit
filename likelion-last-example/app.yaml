@@ -1,5 +1,5 @@
-application: uos-pusher
-version: v2
+application: learned-thunder-685
+version: v3
 runtime: python27
 api_version: 1
 threadsafe: true

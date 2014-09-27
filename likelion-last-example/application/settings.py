@@ -1,4 +1,5 @@
 class Config(object):
+	SECRET_KEY = "likelion-flaskr-secret-key"
     pass
 
 
